@@ -1,0 +1,14 @@
+asgiref @ file:///home/conda/feedstock_root/build_artifacts/asgiref_1671589829431/work
+backports.zoneinfo @ file:///D:/bld/backports.zoneinfo_1667158957025/work
+dj-database-url==1.2.0
+Django @ file:///home/conda/feedstock_root/build_artifacts/django_1670415647940/work
+django-heroku==0.3.1
+django-leaflet==0.28.3
+GDAL==3.4.1
+gunicorn==20.1.0
+numpy @ file:///D:/bld/numpy_1671485117639/work
+psycopg2 @ file:///C:/b/abs_6cdgqr8yu7/croot/psycopg2_1666817457048/work
+psycopg2-binary @ file:///home/conda/feedstock_root/build_artifacts/psycopg2-split_1667025508416/work/psycopg2-binary
+sqlparse @ file:///home/conda/feedstock_root/build_artifacts/sqlparse_1663990453245/work
+typing_extensions @ file:///home/conda/feedstock_root/build_artifacts/typing_extensions_1665144421445/work
+whitenoise==6.3.0
