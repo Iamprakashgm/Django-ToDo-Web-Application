@@ -12,9 +12,9 @@ import os
 SECRET_KEY = "django-insecure-*w-(jz@w%4ai^7^0a(a_0-)0^#48g6!6s901&9=mcgg@n9t4k2"
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
-ALLOWED_HOSTS = ['www.web-production-50f8.up.railway.app']
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
@@ -28,7 +28,7 @@ INSTALLED_APPS = [
     "django.contrib.staticfiles",
 
     # INSTALLED APPS
-    "tasks",
+    "tasks.apps.TasksConfig",
 ]
 
 MIDDLEWARE = [
